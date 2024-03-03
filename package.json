@@ -1,0 +1,26 @@
+{
+"name": "oarachuteglidingsimulation",
+"version": "1.0.0",
+"description": "This project simulates the gliding of a parachute in a browser environment using JavaScript. It creates a simple animation where a blue circle (representing the parachute) falls and rebounds with a bouncing effect.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/Dani1711/ParachuteGlidingSimulation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "Dani1711",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
