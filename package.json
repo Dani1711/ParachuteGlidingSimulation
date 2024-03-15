@@ -1,26 +1,41 @@
 {
-"name": "oarachuteglidingsimulation",
-"version": "1.0.0",
-"description": "This project simulates the gliding of a parachute in a browser environment using JavaScript. It creates a simple animation where a blue circle (representing the parachute) falls and rebounds with a bouncing effect.",
-"main": "index.js",
-"scripts": {},
-"repository": {
-"type": "git",
-"url": "https://github.com/Dani1711/ParachuteGlidingSimulation.git"
-},
-"keywords": [
-"sample",
-"npm",
-"package"
-],
-"author": "Dani1711",
-"license": "MIT",
-"dependencies": {
-"lodash": "^4.17.21",
-"axios": "^0.21.1"
-},
-"peerDependencies": {
-"react": ">=16.8.0",
-"react-dom": ">=16.8.0"
-}
+  "name": "oarachuteglidingsimulation",
+  "version": "2.1.3",
+  "description": "This project simulates the gliding of a parachute in a browser environment using JavaScript. It creates a simple animation where a blue circle (representing the parachute) falls and rebounds with a bouncing effect.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dani1711/ParachuteGlidingSimulation.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package",
+    "tea",
+    "refreshing",
+    "brew",
+    "infusion",
+    "chai",
+    "oolong"
+  ],
+  "author": "Dani1711",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1",
+    "tea-leaf": "^1.0.0",
+    "tea-cup": "^2.3.1",
+    "tea-bag": "^0.5.0",
+    "tea-time": "^3.2.0",
+    "tea-party": "^1.1.0",
+    "tea-sip": "^0.9.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0",
+    "tea-server": "^4.0.0",
+    "tea-client": "^2.1.0",
+    "tea-master": "^3.5.0"
+  }
 }
